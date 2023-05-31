@@ -1,0 +1,21 @@
+/* styles */
+
+    p {
+        background-color: #ffa5b9;
+        font-family: Verdand, "Deja Vu sans", sans-serif;
+    }
+
+    .font-size {
+        font-size: 24px;
+    }
+
+    #blue-option {
+        color: #0025ff;
+        font-size: 36px;
+    }
+
+    #green-option {
+        background-color: #00ff57;
+        font-size: 24px;
+        font-weight: 700;
+    }
